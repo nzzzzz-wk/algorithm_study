@@ -1,1 +1,3 @@
-## study note for algorithms and ML/AL study
+## study note for algorithms and ML/DL study
+
+### basic algorithm
